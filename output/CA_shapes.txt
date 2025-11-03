@@ -1,1 +1,1 @@
-u10_avg: (312,) v10_avg: (312,) t2m_avg: (312,) tp_avg_mm: (312,) tp_avg_m: (312,)
+u10_avg: (312,) v10_avg: (312,) t2m_avg: (312,) tp_avg_mm: (312,) tp_avg_m: (312,) d2m_avg: (312,) rh_avg_pct: (312,)
